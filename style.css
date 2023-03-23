@@ -29,6 +29,7 @@ a, div:{
     border: 5px solid grey;
     display: inline-block;
     margin: 10px 500px;
+    border-radius: 4px;
 
 }
 .container {
@@ -44,6 +45,7 @@ a, div:{
     width: 450px;
     margin: auto;
     border: 5px solid grey;
+    border-radius: 4px;
       
     
 
