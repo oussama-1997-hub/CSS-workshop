@@ -1,0 +1,100 @@
+a, div:{
+    font-family: roboto;
+    
+}
+.nav {  
+    text-align: right;
+    background-color: #212531;
+    padding: 20px;
+    line-height: 1,5;
+    font-weight: 500px;
+    
+}
+.nav a{
+    text-decoration:none;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.banner {
+    background-color: lightgrey;
+    padding: 10px 10px;
+    text-align: center;
+    height: 400px;
+    width: 350px;
+    border: 5px solid grey;
+    display: inline-block;
+    margin: 10px 500px;
+
+}
+.container {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 13px;
+    line-height: 2;
+    background-color: #FFEFD3;
+    padding: 10px 10px;
+    text-align: center;
+    height: 300px;
+    width: 450px;
+    margin: auto;
+    border: 5px solid grey;
+      
+    
+
+}
+.container textarea{
+    line-height: 35px;
+    background-color: rgb(199, 208, 209);
+    text-align: center;
+}
+.b-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+.resume{
+    text-align: center;
+    padding: auto;
+    margin: auto 500px;
+}
+form{
+    line-height: 1,6;
+    letter-spacing: 3px;
+    display: inline-block;
+    justify-content: center;
+    margin-left: 400px;
+}
+.input-box{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.footer{
+    color: white;
+    background-color: rgb(18, 38, 58);
+    line-height: 1,5;
+    letter-spacing: 2px;
+    padding: 10px 30px;
+    margin-top: 40px;
+
+}
